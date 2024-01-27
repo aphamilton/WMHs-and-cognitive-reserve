@@ -1,0 +1,1 @@
+This repository contains R analysis code. This requires data files containing 1) the results of earlier MRI processing stages, and 2) non-MRI behavioral measures. Those files can be found on the project's OSF page.
